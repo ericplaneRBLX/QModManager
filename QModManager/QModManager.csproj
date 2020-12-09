@@ -179,7 +179,6 @@
     <Compile Include="Utility\Logger.cs" />
     <Compile Include="Utility\Dialog.cs" />
     <Compile Include="OptionsManager.cs" />
-    <Compile Include="Checks\PirateCheck.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utility\ExtensionMethods.cs" />
     <Compile Include="Utility\NetworkUtilities.cs" />
