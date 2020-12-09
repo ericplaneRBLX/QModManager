@@ -66,8 +66,6 @@ namespace QModManager.Patching
                     Logger.Exception(e);
                 }
 
-                PirateCheck.IsPirate(Environment.CurrentDirectory);
-
                 PatchHarmony();
 
                 if (NitroxCheck.IsInstalled)
