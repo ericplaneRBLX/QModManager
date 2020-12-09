@@ -7,7 +7,7 @@
 #define Name "QModManager" ; The name of the game will be added after it
 #define Version "4.0.2.3"
 #define Author "QModManager"
-#define URL "https://github.com/QModManager/QModManager"
+#define URL "https://github.com/ericplaneRBLX/QModManager"
 #define SupportURL "https://discord.gg/UpWuWwq"
 #define UpdatesURL "https://nexusmods.com" ; The link to the mod will be added after it
 
